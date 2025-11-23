@@ -1,0 +1,34 @@
+C:\Users\husey\OneDrive\İş masası\ders 16\bin\Debug\net8.0-windows\samolyot.exe
+C:\Users\husey\OneDrive\İş masası\ders 16\bin\Debug\net8.0-windows\samolyot.deps.json
+C:\Users\husey\OneDrive\İş masası\ders 16\bin\Debug\net8.0-windows\samolyot.runtimeconfig.json
+C:\Users\husey\OneDrive\İş masası\ders 16\bin\Debug\net8.0-windows\samolyot.dll
+C:\Users\husey\OneDrive\İş masası\ders 16\bin\Debug\net8.0-windows\samolyot.pdb
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.Form1.resources
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.csproj.GenerateResource.cache
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.AssemblyInfoInputs.cache
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.AssemblyInfo.cs
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.sourcelink.json
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.dll
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\refint\samolyot.dll
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.pdb
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\samolyot.genruntimeconfig.cache
+C:\Users\husey\OneDrive\İş masası\ders 16\obj\Debug\net8.0-windows\ref\samolyot.dll
+D:\c#\tapsirig_16\lesson 16\bin\Debug\net8.0-windows\samolyot.exe
+D:\c#\tapsirig_16\lesson 16\bin\Debug\net8.0-windows\samolyot.deps.json
+D:\c#\tapsirig_16\lesson 16\bin\Debug\net8.0-windows\samolyot.runtimeconfig.json
+D:\c#\tapsirig_16\lesson 16\bin\Debug\net8.0-windows\samolyot.dll
+D:\c#\tapsirig_16\lesson 16\bin\Debug\net8.0-windows\samolyot.pdb
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.Form1.resources
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.csproj.GenerateResource.cache
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.AssemblyInfoInputs.cache
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.AssemblyInfo.cs
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.csproj.CoreCompileInputs.cache
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.sourcelink.json
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.dll
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\refint\samolyot.dll
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.pdb
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\samolyot.genruntimeconfig.cache
+D:\c#\tapsirig_16\lesson 16\obj\Debug\net8.0-windows\ref\samolyot.dll
